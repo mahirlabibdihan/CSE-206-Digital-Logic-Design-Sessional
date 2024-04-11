@@ -1,0 +1,1 @@
+start https://www.emathhelp.net/en/calculators/discrete-mathematics/boolean-algebra-calculator/?f=pq%7Ers%2B%7Epqr%7Es%2Bpqr%2Bp%7Eq%7Er%7Es%2Bpq%7Es%2Bp%7Eqr
